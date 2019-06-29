@@ -7,7 +7,7 @@ const routes = [
       method: 'GET',
       path: '/',
       handler: (request, h) => {
-          return 'Sensor API root (visit /sensor)';
+          return 'Sensor API<br>&nbsp;&nbsp;<a href="/sensor">/sensor</a>';
       }
     }
 ];
