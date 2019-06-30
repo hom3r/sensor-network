@@ -2,6 +2,7 @@
   "name": "sensor-network",
   "version": "1.0.0",
   "description": "REST API for IoT sensor network",
+  "repository": "https://github.com/hom3r/sensor-network",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -11,7 +11,7 @@ const routes = require('./routes');
 
 const server = Hapi.server({
     port: config.port || 3000,
-    host: 'localhost'
+    host: '0.0.0.0'
 });
 
 server.route(routes);
