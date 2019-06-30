@@ -18,9 +18,3 @@ Run tests by calling
 ```
 npm test
 ```
-
-## TODO
-* dockerize
-* add MongoDB database
-* seed some data
-* write some tests
