@@ -19,8 +19,7 @@ Run tests by calling
 npm test
 ```
 
-## TODO
-* dockerize
-* add MongoDB database
-* seed some data
-* write some tests
+Thanks to Docker, app can be run in a container (also available on port 3000)
+```
+docker-compose up -d
+```
